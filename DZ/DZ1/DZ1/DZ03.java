@@ -1,5 +1,5 @@
 
-package DZ.DZ1;
+package DZ.DZ1.DZ1;
 import java.util.Scanner;
 
 public class DZ03 {

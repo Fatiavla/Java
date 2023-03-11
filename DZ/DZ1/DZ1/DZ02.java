@@ -1,4 +1,4 @@
-package DZ.DZ1;
+package DZ.DZ1.DZ1;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
